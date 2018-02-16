@@ -1,0 +1,13 @@
+Public class Initials
+{
+	Public static void ( String[] args) 
+	{
+		System.out.println("N   N W   W");	
+		System.out.println("NN  N W   W");
+		System.out.println("N N N W   W");
+		System.out.println("N  NN W W W");
+		System.out.println("N   N WW WW");
+		System.out.println("N   N WW WW");
+		System.out.println("N   N W   W");
+	}
+}
